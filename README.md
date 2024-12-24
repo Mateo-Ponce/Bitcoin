@@ -17,9 +17,9 @@
         <li>
             <a href="#Exploración">Exploración</a>
             <ul>
-                <li><a href="#Librerías utilizadas">Librerías utilizadas</a></li>
-                <li><a href="#Dataset utilizado">Dataset utilizado</a></li>
-                <li><a href="#Estructura del dataset">Estructura del dataset</a></li>
+                <li><a href="#Librerías-utilizadas">Librerías utilizadas</a></li>
+                <li><a href="#Dataset-utilizado">Dataset utilizado</a></li>
+                <li><a href="#Estructura-del-dataset">Estructura del dataset</a></li>
             </ul>
         </li>
          <li>
