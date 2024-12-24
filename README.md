@@ -1,13 +1,9 @@
-# Ca-das-y-per-odos-de-recuperaci-n-en-el-precio-de-Bitcoin-
+# Caidas y periodos de recuperacion en el precio de Bitcoin
 
 <p style="text-align:center">
     <img src="https://media.slovoidilo.ua/media/publications/21/209648/209648-1_large.jpg" width="1400" height="300" alt="Skills Network Logo">
     </a>
 </p>
-
-
-Analisis enfocado en los períodos de recuperación y caídas importantes en el precio de Bitcoin utilizando Python/Pandas
-
 
 
 
@@ -16,7 +12,7 @@ Analisis enfocado en los períodos de recuperación y caídas importantes en el 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ul>
         <li>
-            <a href="#About-the-Dataset">About the Dataset</a>
+            <a href="#Introducción">Introducción</a>
         </li>
         <li>
             <a href="#Tuples">Tuples</a>
@@ -34,3 +30,20 @@ Analisis enfocado en los períodos de recuperación y caídas importantes en el 
 </div>
 
 <hr>
+
+
+## Introducción
+
+Este análisis centrado en los precios históricos de Bitcoin ofrece una perspectiva sobre los ciclos de este mercado y las dinámicas de recuperación tras grandes caídas. El objetivo es identificar y estudiar las caídas significativas en el precio de Bitcoin desde 2010 hasta 2024, así como el tiempo que tarda en recuperarse a niveles previos. 
+Los gráficos generados en este análisis permiten:
+
+1. **Visualizar caídas significativas:** Identificar momentos en los que el precio de Bitcoin experimentó disminuciones mayores a un cierto porcentaje predefinido, como un 10%.
+2. **Rastrear períodos de recuperación:** Medir el número de días que el precio tarda en superar su máximo histórico previo, proporcionando una métrica clara del impacto de las caídas en el mercado.
+3. **Analizar patrones históricos:** Observar si existen tendencias en la duración y frecuencia de los períodos de caída y recuperación a lo largo del tiempo.
+
+Estos resultados son útiles para:
+- Inversionistas que desean comprender la resiliencia histórica del mercado de Bitcoin frente a caídas significativas.
+- Analistas interesados en estudiar patrones de recuperación en mercados volátiles.
+- Personas curiosas por explorar el comportamiento del mercado de Bitcoin a lo largo de su historia.
+
+
