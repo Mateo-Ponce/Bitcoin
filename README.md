@@ -8,7 +8,7 @@
 
 
 
-<h2>Table of Contents</h2>
+<h1>Contenidos</h1>
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ul>
         <li>
@@ -35,7 +35,7 @@
 <hr>
 
 
-## Introducción
+# **Introducción**
 
 Este análisis centrado en los precios históricos de Bitcoin ofrece una perspectiva sobre los ciclos de este mercado y las dinámicas de recuperación tras grandes caídas. El objetivo es identificar y estudiar las caídas significativas en el precio de Bitcoin desde 2010 hasta 2024, así como el tiempo que tarda en recuperarse a niveles previos. 
 Los gráficos generados en este análisis permiten:
@@ -52,10 +52,34 @@ Estos resultados son útiles para:
 
 
 
-## Exploración
+# Exploración
 ### Librerías utilizadas
 
-<img src="images/librerias_importadas.png" alt="Librerías importadas" width="800">
+<img src="images/librerias_importadas.png" alt="Librerías importadas" width="364" height="190">
 
+### Dataset utilizado
+El dataset proviene de Kaggle y contiene datos históricos del precio de Bitcoin y de otras criptomonedas, organizados por fecha. La fuente original del dataset es: https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices/data
 
+### Estructura del dataset original
+A continuación se muestra una vista inicial de cómo era el dataset original:
+
+<img src="images/estructura_dataSet.png" alt="estructura_dataSet.png" width="590" height="452">
+
+Explicación de cada columna del dataset:
+1. ticker
+-	Representa el símbolo del activo que se está analizando. En este caso, BTC se refiere a Bitcoin.
+2. date
+-	La fecha de los datos registrados. Cada fila representa la información del precio de Bitcoin para un día específico.
+3. open
+-	Es el precio de apertura del día.
+-	Este es el precio al que se realizó la primera transacción de Bitcoin al inicio del día (generalmente a la medianoche UTC).
+4. high
+-	Es el precio máximo alcanzado durante ese día.
+-	Refleja el valor más alto al que Bitcoin fue negociado durante las 24 horas del día.
+5. low
+-	Es el precio mínimo alcanzado durante ese día.
+•	Indica el valor más bajo al que Bitcoin fue negociado durante las 24 horas del día.
+6. close
+-	Es el precio de cierre del día.
+-	Este es el precio al que se realizó la última transacción del día (normalmente justo antes de la medianoche UTC).
 
