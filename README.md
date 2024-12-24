@@ -55,5 +55,7 @@ Estos resultados son útiles para:
 ## Exploración
 ### Librerías utilizadas
 
+<img src="images/librerias_importadas.png" alt="Librerías importadas" width="800">
+
 
 
