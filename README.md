@@ -19,9 +19,6 @@
         <li>
             <a href="#Transformacion">Transformacion</a>
         </li>
-         <li>
-            <a href="#Función">Función central</a>
-        </li>
         <li>
             <a href="#Visualización">Visualización</a>
             <ul>
@@ -95,5 +92,23 @@ Para nuestro análisis, sólo necesitaremos la columna "close". También vamos a
 
 El conteo de la columna days indica cuántos días consecutivos han pasado desde que ocurrió la última caída significativa (igual o mayor al porcentaje especificado). Es un indicador del tiempo que el mercado lleva recuperándose sin una caída importante. Esta columna se calcula utilizando una funcion la cual es central en nuestro proyecto y que se encuentra en el notebook del mismo.
 
+<br>
+
+# Visualización
+
+
+Los gráficos ofrecen una perspectiva visual sobre la volatilidad histórica del mercado de Bitcoin.
+
+
+#### Interpretación del gráfico
+
+- **BTC Price** (línea negra): Ayuda a identificar los picos y las caídas significativas en el precio de Bitcoin.
+- **Days Since Selloff** (línea azul): Permite rastrear cuánto tiempo ha pasado desde la última caída importante. Un aumento en esta línea significa un período continuo de recuperación.
+
+Ambos indicadores juntos proporcionan información valiosa sobre la duración y la intensidad de las caídas en el mercado.
+
+#### Gráfico: Ejemplo con caídas del 10%
+
+<img src="images/grafico10.png" alt="grafico10.png" width="1564" height="450">
 
 
