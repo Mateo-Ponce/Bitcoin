@@ -1,11 +1,5 @@
 # Caidas y periodos de recuperacion en el precio de Bitcoin
 
-<p style="text-align:center">
-    <img src="https://media.slovoidilo.ua/media/publications/21/209648/209648-1_large.jpg" width="830" height="180" alt="Bitcoin Logo">
-</p>
-
-
-
 
 
 <h1>Contenidos</h1>
@@ -21,6 +15,9 @@
                 <li><a href="#Dataset-utilizado">Dataset utilizado</a></li>
                 <li><a href="#Estructura-del-dataset">Estructura del dataset</a></li>
             </ul>
+        </li>
+        <li>
+            <a href="#Transformacion">Transformacion</a>
         </li>
          <li>
             <a href="#Función">Función central</a>
@@ -55,7 +52,7 @@ Estos resultados son útiles para:
 - Personas curiosas por explorar el comportamiento del mercado de Bitcoin a lo largo de su historia.
 
 
-
+<br>
 
 # Exploración
 ### Librerías utilizadas
@@ -87,4 +84,16 @@ Explicación de cada columna del dataset:
 6. close
 -	Es el precio de cierre del día.
 -	Este es el precio al que se realizó la última transacción del día (normalmente justo antes de la medianoche UTC).
+
+<br>
+
+# Transformacion
+
+Para nuestro análisis, sólo necesitaremos la columna "close". También vamos a crear la columna "days".
+
+<img src="images/transformacion.png" alt="transformacion.png" width="364" height="516">
+
+El conteo de la columna days indica cuántos días consecutivos han pasado desde que ocurrió la última caída significativa (igual o mayor al porcentaje especificado). Es un indicador del tiempo que el mercado lleva recuperándose sin una caída importante. Esta columna se calcula utilizando una funcion la cual es central en nuestro proyecto y que se encuentra en el notebook del mismo.
+
+
 
