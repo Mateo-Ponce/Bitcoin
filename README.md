@@ -15,15 +15,18 @@
             <a href="#Introducción">Introducción</a>
         </li>
         <li>
-            <a href="#Tuples">Tuples</a>
-            <ul>
-                <li><a href="#Indexing">Indexing</a></li>
-                <li><a href="#Slicing">Slicing</a></li>
-                <li><a href="#Sorting">Sorting</a></li>
-            </ul>
+            <a href="#Exploración">Exploración</a>
+        </li>
+         <li>
+            <a href="#Función">Función central</a>
         </li>
         <li>
-            <a href="#Quiz-on-Tuples">Quiz on Tuples</a>
+            <a href="#Visualización">Visualización</a>
+            <ul>
+                <li><a href="#Caidas del 10%">Caidas del 10%</a></li>
+                <li><a href="#Caidas del 30%">Caidas del 30%</a></li>
+                <li><a href="#Caidas del 50%">Caidas del 50%</a></li>
+            </ul>
         </li>
     </ul>
 
