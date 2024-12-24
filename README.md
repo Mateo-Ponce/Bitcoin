@@ -1,9 +1,9 @@
 # Caidas y periodos de recuperacion en el precio de Bitcoin
 
 <p style="text-align:center">
-    <img src="https://media.slovoidilo.ua/media/publications/21/209648/209648-1_large.jpg" width="1400" height="300" alt="Skills Network Logo">
-    </a>
+    <img src="https://media.slovoidilo.ua/media/publications/21/209648/209648-1_large.jpg" width="830" height="180" alt="Bitcoin Logo">
 </p>
+
 
 
 
@@ -48,5 +48,12 @@ Estos resultados son útiles para:
 - Inversionistas que desean comprender la resiliencia histórica del mercado de Bitcoin frente a caídas significativas.
 - Analistas interesados en estudiar patrones de recuperación en mercados volátiles.
 - Personas curiosas por explorar el comportamiento del mercado de Bitcoin a lo largo de su historia.
+
+
+
+
+## Exploración
+### Librerías utilizadas
+
 
 
