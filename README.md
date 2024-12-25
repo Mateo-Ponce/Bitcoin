@@ -1,5 +1,5 @@
 # Caidas y periodos de recuperacion en el precio de Bitcoin
-
+https://github.com/Mateo-Ponce/Caidas-y-periodos-de-recuperacion-en-el-precio-del-Bitcoin/blob/main/README.md#Estructura-del-dataset
 
 
 <h1>Contenidos</h1>
@@ -22,9 +22,9 @@
         <li>
             <a href="#Visualización">Visualización</a>
             <ul>
-                <li><a href="#Gráfico: Ejemplo midiendo caídas del 10%">Caidas del 10%</a></li>
-                <li><a href="#Gráfico: Ejemplo midiendo caídas del 40%">Caidas del 40%</a></li>
-                <li><a href="Gráfico: Ejemplo midiendo caídas del 50%">Caidas del 50%</a></li>
+                <li><a href="Ejemplo-midiendo-caídas-del-10%">Caidas del 10%</a></li>
+                <li><a href="Ejemplo-midiendo-caídas-del-40%">Caidas del 40%</a></li>
+                <li><a href="Ejemplo-midiendo-caídas-del-50%">Caidas del 50%</a></li>
             </ul>
         </li>
     </ul>
@@ -99,14 +99,14 @@ Los gráficos ofrecen una perspectiva visual sobre la volatilidad histórica del
 
 Ambos indicadores juntos proporcionan información valiosa sobre la duración y la intensidad de las caídas en el mercado.
 
-#### Gráfico: Ejemplo midiendo caídas del 10%
+#### Ejemplo midiendo caídas del 10%
 
 <img src="images/grafico10.png" alt="grafico10.png" width="1564" height="450">
 
-#### Gráfico: Ejemplo midiendo caídas del 40%
+#### Ejemplo midiendo caídas del 40%
 
 <img src="images/grafico40.png" alt="grafico40.png" width="1564" height="450">
 
-#### Gráfico: Ejemplo midiendo caídas del 50%
+#### Ejemplo midiendo caídas del 50%
 
 <img src="images/grafico50.png" alt="grafico50.png" width="1564" height="450">
