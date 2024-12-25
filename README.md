@@ -40,7 +40,7 @@ Este análisis centrado en los precios históricos de Bitcoin ofrece una perspec
 Los gráficos generados en este análisis permiten:
 
 1. **Visualizar caídas significativas:** Identificar momentos en los que el precio de Bitcoin experimentó disminuciones mayores a un cierto porcentaje predefinido, como un 10%.
-2. **Rastrear períodos de recuperación:** Medir el número de días que el precio tarda en superar su máximo histórico previo, proporcionando una métrica clara del impacto de las caídas en el mercado.
+2. **Rastrear períodos de recuperación:** Medir la cantidad de días que el precio tarda en superar su máximo histórico previo, proporcionando una métrica clara sobre la duración y el impacto de las caídas en el precio del Bitcoin.
 3. **Analizar patrones históricos:** Observar si existen tendencias en la duración y frecuencia de los períodos de caída y recuperación a lo largo del tiempo.
 
 Estos resultados son útiles para:
@@ -86,11 +86,11 @@ Explicación de cada columna del dataset:
 
 # Transformacion
 
-Para nuestro análisis, sólo necesitaremos la columna "close". También vamos a crear la columna "days".
+Para nuestro análisis, sólo necesitaremos la columna "close", la columna 'date' se va a convertir en el indice del dataframe y también vamos a crear la columna "days".
 
 <img src="images/transformacion.png" alt="transformacion.png" width="364" height="516">
 
-El conteo de la columna days indica cuántos días consecutivos han pasado desde que ocurrió la última caída significativa (igual o mayor al porcentaje especificado). Es un indicador del tiempo que el mercado lleva recuperándose sin una caída importante. Esta columna se calcula utilizando una funcion la cual es central en nuestro proyecto y que se encuentra en el notebook del mismo.
+El conteo de la columna days indica cuántos días consecutivos han pasado desde que ocurrió la última caída significativa (igual o mayor al porcentaje especificado). Es un indicador del tiempo que el mercado lleva recuperándose sin una caída importante. Esta columna se calcula utilizando una funcion la cual es central en nuestro proyecto y que se encuentra en el notebook del mismo. Los dias se cuentan dependiendo del porcentaje especificado de caiga que se quiera medir.
 
 <br>
 
@@ -103,7 +103,7 @@ Los gráficos ofrecen una perspectiva visual sobre la volatilidad histórica del
 #### Interpretación del gráfico
 
 - **BTC Price** (línea negra): Ayuda a identificar los picos y las caídas significativas en el precio de Bitcoin.
-- **Days Since Selloff** (línea azul): Permite rastrear cuánto tiempo ha pasado desde la última caída importante. Un aumento en esta línea significa un período continuo de recuperación.
+- **Days Since Selloff** (línea azul): Permite rastrear cuánto tiempo ha pasado desde la última caída importante. Un aumento continuo en esta línea significa un período continuo de recuperación.
 
 Ambos indicadores juntos proporcionan información valiosa sobre la duración y la intensidad de las caídas en el mercado.
 
@@ -111,4 +111,6 @@ Ambos indicadores juntos proporcionan información valiosa sobre la duración y 
 
 <img src="images/grafico10.png" alt="grafico10.png" width="1564" height="450">
 
+#### Gráfico: Ejemplo con caídas del 40%
 
+<img src="images/grafico40.png" alt="grafico40.png" width="1564" height="450">
