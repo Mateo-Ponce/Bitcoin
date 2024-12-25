@@ -19,12 +19,11 @@
         </li>
         <li>
             <a href="#Visualización">Visualización</a>
-            <ul>
-                <li><a href="#### Ejemplo-midiendo-caídas-del-10%">Ejemplo midiendo caídas del 10%</a></li>
-                <li><a href="#### Ejemplo-midiendo-caídas-del-40%">Caidas del 40%</a></li>
-                <li><a href="#### Ejemplo-midiendo-caídas-del-50%">Caidas del 50%</a></li>
-            </ul>
-        </li>
+           <ul>
+    <li><a href="#ejemplo-caidas-10">Ejemplo midiendo caídas del 10%</a></li>
+    <li><a href="#ejemplo-caidas-40">Caídas del 40%</a></li>
+    <li><a href="#ejemplo-caidas-50">Caídas del 50%</a></li>
+</ul>
     </ul>
 
 </div>
