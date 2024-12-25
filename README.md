@@ -1,6 +1,4 @@
 # Caidas y periodos de recuperacion en el precio de Bitcoin
-https://github.com/Mateo-Ponce/Caidas-y-periodos-de-recuperacion-en-el-precio-del-Bitcoin/blob/main/README.md#Estructura-del-dataset
-
 
 <h1>Contenidos</h1>
 <div class="alert alert-block alert-info" style="margin-top: 20px">
@@ -22,9 +20,9 @@ https://github.com/Mateo-Ponce/Caidas-y-periodos-de-recuperacion-en-el-precio-de
         <li>
             <a href="#Visualización">Visualización</a>
             <ul>
-                <li><a href="####Ejemplo-midiendo-caídas-del-10%">Caidas del 10%</a></li>
-                <li><a href="####Ejemplo-midiendo-caídas-del-40%">Caidas del 40%</a></li>
-                <li><a href="####Ejemplo-midiendo-caídas-del-50%">Caidas del 50%</a></li>
+                <li><a href="#### Ejemplo-midiendo-caídas-del-10%">Caidas del 10%</a></li>
+                <li><a href="#### Ejemplo-midiendo-caídas-del-40%">Caidas del 40%</a></li>
+                <li><a href="#### Ejemplo-midiendo-caídas-del-50%">Caidas del 50%</a></li>
             </ul>
         </li>
     </ul>
