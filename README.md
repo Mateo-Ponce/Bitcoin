@@ -96,7 +96,7 @@ Los gráficos ofrecen una perspectiva visual sobre la volatilidad histórica del
 
 Ambos indicadores juntos proporcionan información valiosa sobre la duración y la intensidad de las caídas en el mercado.
 
-#### Ejemplo midiendo caídas del 10%
+<h2 id="ejemplo-caidas-10">Ejemplo midiendo caídas del 10%</h2>
 
 <img src="images/grafico10.png" alt="grafico10.png" width="1564" height="450">
 
