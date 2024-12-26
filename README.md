@@ -100,10 +100,10 @@ Ambos indicadores juntos proporcionan información valiosa sobre la duración y 
 
 <img src="images/grafico10.png" alt="grafico10.png" width="1564" height="450">
 
-#### Ejemplo midiendo caídas del 40%
+<h2 id="ejemplo-caidas-10">Ejemplo midiendo caídas del 40%</h2>
 
 <img src="images/grafico40.png" alt="grafico40.png" width="1564" height="450">
 
-#### Ejemplo midiendo caídas del 50%
+<h2 id="ejemplo-caidas-10">Ejemplo midiendo caídas del 50%</h2>
 
 <img src="images/grafico50.png" alt="grafico50.png" width="1564" height="450">
