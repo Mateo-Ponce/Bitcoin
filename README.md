@@ -92,7 +92,7 @@ Los gráficos ofrecen una perspectiva visual sobre la volatilidad histórica del
 #### Interpretación del gráfico
 
 - **BTC Price** (línea negra): Ayuda a identificar los picos y las caídas significativas en el precio de Bitcoin.
-- **Days Since Selloff** (línea azul): Permite rastrear cuánto tiempo ha pasado desde la última caída importante. Un aumento continuo en esta línea significa un período continuo de recuperación.
+- **Days Since Selloff** (línea azul): Permite rastrear cuánto tiempo ha pasado desde la última caída importante. Un aumento continuo en esta línea significa un período continuo de recuperación y una caida indica que ha ocurrido una caiga en el porcentaje especificado.
 
 Ambos indicadores juntos proporcionan información valiosa sobre la duración y la intensidad de las caídas en el mercado.
 
