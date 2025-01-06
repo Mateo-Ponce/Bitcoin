@@ -57,7 +57,7 @@ Estos resultados son útiles para:
 El dataset proviene de Kaggle y contiene datos históricos del precio de Bitcoin y de otras criptomonedas, organizados por fecha. La fuente original del dataset es: https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices/data
 
 ## Estructura del dataset
-A continuación se muestra una vista inicial de cómo era el dataset original:
+dataset original:
 
 <img src="images/estructura_dataSet.png" alt="estructura_dataSet.png" width="590" height="452">
 
