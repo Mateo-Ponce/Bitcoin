@@ -107,3 +107,7 @@ Ambos indicadores juntos proporcionan información valiosa sobre la duración y 
 <h2 id="ejemplo-caidas-50">Ejemplo midiendo caídas del 50%</h2>
 
 <img src="images/grafico50.png" alt="grafico50.png" width="1564" height="450">
+
+
+# **Conclusión**
+Los gráficos generados en este análisis muestran que Bitcoin ha experimentado numerosas caídas significativas a lo largo de su historia, algunas de ellas superiores al 50% de su valor. Sin embargo, en cada caso, el activo ha logrado recuperarse y superar sus máximos anteriores. Este comportamiento refleja la resiliencia del mercado de Bitcoin y su capacidad para atraer nueva inversión y confianza después de períodos de incertidumbre. Aunque la volatilidad sigue siendo una característica inherente, los datos históricos sugieren que, a largo plazo, Bitcoin ha tendido a mantener una trayectoria ascendente, consolidándose como un activo único en el panorama financiero global.
