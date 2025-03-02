@@ -1,5 +1,5 @@
 # Caidas y periodos de recuperacion en el precio de Bitcoin
-
+<img src="images/price-of-bitcoin-btc.jpg" alt="Librerías importadas" width="1080" height="520">
 <h1>Contenidos</h1>
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ul>
